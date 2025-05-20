@@ -1,3 +1,6 @@
+
+**Java Developer | Python Developer |Android Developer | Linux Enthusiast | Open Source |Certified Postman API Student Expert |  Passionate About System Programming & Android Exploitation**
+
 # 💫 About Me:
 🔭 I’m currently working AI And Ml<br>👯 I’m looking to collaborate on android devlopment,api devlopment, system level works<br>🤝 I’m looking for help with Java Android Development <br>🌱 I’m currently learning Python AI ML INTEGRATED <br>💬 Ask me about on LinkedIn: subhamsinhadev <br>⚡ Fun fact : I am also a self learned cook 😅
 
