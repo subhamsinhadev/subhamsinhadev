@@ -1,28 +1,13 @@
 # 👨‍💻 Developer Profile
 
-<style>
-@keyframes slide {
-  0% { transform: translateX(100%); }
-  100% { transform: translateX(-100%); }
-}
-.animated-text {
-  display: inline-block;
-  white-space: nowrap;
-  overflow: hidden;
-  animation: slide 12s linear infinite;
-  font-weight: bold;
-  font-size: 18px;
-}
-</style>
-
-<div class="animated-text">
-🚀 Full Stack Developer | 💻 Backend Developer | 🤖 Generative AI Enthusiast | ☕ Java Developer | 🐍 Python Developer | 📱 Android Developer | 🐧 Linux Enthusiast | 🌐 Open Source Contributor | 🔌 API Developer
-</div>
-
----
-
-📫 _Always open to collaboration and exciting tech opportunities!_
-
+<p align="center">
+  <svg width="100%" height="40">
+    <text x="100%" y="50%" dominant-baseline="middle" text-anchor="start" font-size="18" fill="black">
+      <animate attributeName="x" from="100%" to="-100%" dur="20s" repeatCount="indefinite" />
+      🚀 Full Stack Developer | 💻 Backend Developer | 🤖 Generative AI Enthusiast | ☕ Java Developer | 🐍 Python Developer | 📱 Android Developer | 🐧 Linux Enthusiast | 🌐 Open Source Contributor | 🔌 API Developer
+    </text>
+  </svg>
+</p>
 
 
 # 💫 About Me:
