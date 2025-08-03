@@ -1,13 +1,13 @@
 # 👨‍💻 Developer Profile
 
 <p align="center">
-  <svg width="100%" height="40">
-    <text x="100%" y="50%" dominant-baseline="middle" text-anchor="start" font-size="18" fill="black">
-      <animate attributeName="x" from="100%" to="-100%" dur="20s" repeatCount="indefinite" />
-      🚀 Full Stack Developer | 💻 Backend Developer | 🤖 Generative AI Enthusiast | ☕ Java Developer | 🐍 Python Developer | 📱 Android Developer | 🐧 Linux Enthusiast | 🌐 Open Source Contributor | 🔌 API Developer
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+Developer;💻+Backend+Developer;🤖+Generative+AI+Enthusiast;☕+Java+Developer;🐍+Python+Developer;📱+Android+Developer;🐧+Linux+Enthusiast;🌐+Open+Source+Contributor;🔌+API+Developer" alt="Typing SVG" />
 </p>
+
+---
+
+📫 _Always open to learning, building, and collaborating on impactful tech projects._
+
 
 
 # 💫 About Me:
