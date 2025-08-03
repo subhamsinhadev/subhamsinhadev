@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+Developer;💻+Backend+Developer;🤖+Generative+AI+Enthusiast;☕+Java+Developer;🐍+Python+Developer;📱+Android+Developer;🐧+Linux+Enthusiast;🌐+Open+Source+Contributor;🔌+API+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+Developer;💻+Backend+Developer;🤖+Generative+AI+Enthusiast;☕+Java+Developer;🐍+Python+Developer;📱+Android+Developer;🐧+Linux+Enthusiast;🌐+Open+Source+Contributor;🔌+API+Developer" alt="Typing SVG" />
 </p>
-
 
 # 💫 About Me:
 🔭 I’m currently working AI And Ml<br>👯 I’m looking to collaborate on android development,API development, system level works<br>🤝 I’m looking for help with Java Android Development<br>🌱 I’m currently learning Python AI ML INTEGRATED<br>💬 Ask me about on LinkedIn: subhamsinhadev<br>⚡ Fun fact : I am also a self learned cook 😅
