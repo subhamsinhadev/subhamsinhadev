@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working AI And Ml<br>👯 I’m looking to collaborate on android development,API development, system level works<br>🤝 I’m looking for help with Java Android Development<br>🌱 I’m currently learning Python AI ML INTEGRATED<br>💬 Ask me about on LinkedIn: subhamsinhadev<br>⚡ Fun fact : I am also a self learned cook 😅
+🔭 I’m currently working Full Stack Java And Android Development <br>👯 I’m looking to collaborate on android development,API development, system level works<br>🤝 I’m looking for help with Java Android Development<br>🌱 I’m currently learning Python AI ML INTEGRATED<br>💬 Ask me about on LinkedIn: subhamsinhadev<br>⚡ Fun fact : I am also a self learned cook 😅
 
 # More
 **Pre-Final Year Student| Full Stack Developer|Aspiring Software Engineer |Currently Learning DSA(JAVA)|Generative AI | Java Developer | Python Developer |Android Developer | Linux Enthusiast | Open Source | API Developer|Certified Postman API Student Expert |  Passionate About System Programming & Android Exploitation**
